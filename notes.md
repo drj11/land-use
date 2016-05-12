@@ -24,6 +24,7 @@ An apple a day = 60 kg per year
 
 9.2 m²
 
+
 # Plastics
 
 Bioplastic1: "Agricultural Resources for Bioplastics", bioplastics MAGAZINE [06/11] Vol. 6
@@ -44,4 +45,8 @@ with how bioplastics should be called biobased polymer.
 If you've eaten with a biodegradable plastic fork, probably a
 bioplastic.
 
-Yield: 2500 kg per hectare [Bioplastic1].
+Yield: 2500 kg per hectare [Bioplastic1]. 4 m² per kg.
+
+50kg plastic per person per year?
+
+200m² = 0.8 allotments
