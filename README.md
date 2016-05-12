@@ -14,6 +14,9 @@ So you need, say, ⅛ of an allotment to grow your tea.
 
 (thanks to Mike Smith for this idea)
 
+Awesome fact: Land Area of UK is 1 billion allotments.
+About 15 each.
+
 # REFERENCES
 
 [nsalg]: http://www.nsalg.org.uk/allotment-info/ on 2016-05-12
