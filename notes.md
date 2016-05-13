@@ -76,3 +76,41 @@ a trade-off between paper and other wood products is possible.
 6.7m² per tree
 14m² per person
 0.06 allotments
+
+# Biofuels
+
+Obviously this is part of a much larger energy section, but...
+
+[Biomass1]
+http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163231&_dad=portal&_schema=PORTAL
+on 2016-05-13 (good luck with that URL!)
+
+Energy crop yield is 11 to 63 MWh/ha per year.
+Let's say 50 MWh/ha.
+
+200m² per MWh.
+0.8 allotments per MWh.
+
+MacKay has a figure of 195kWh per person per day,
+which is 71 MWh per year.
+
+57 allotments.
+
+This figure remember, assumes we're making all of our energy from a
+reasonably efficient biological source.
+Recall that our "budget" was about 15 allotments;
+so we've blown it.
+
+# Solar
+
+10W/m² averaged over a year (MacKay).
+100kWh/m²
+
+10m² per MWh.
+
+About 3 allotments.
+
+Why do we even bother with biofuels?
+One answer is that we're going to need _some_ biofuels.
+For example, liquid fuels for aviation.
+
