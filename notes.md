@@ -114,3 +114,18 @@ Why do we even bother with biofuels?
 One answer is that we're going to need _some_ biofuels.
 For example, liquid fuels for aviation.
 
+# Soybean
+
+[soybean1]
+http://farmdocdaily.illinois.edu/2014/07/2014-us-average-soybean-yield.html
+on 2016-05-16
+
+[bushel1]
+https://www.unc.edu/~rowlett/units/scales/bushels.html on 2016-05-16
+
+Yield might be 50 bushels per acre [soybean1] but exceptionally,
+100. 3000 lbs per acre [bushel1].
+
+3360 kg per hectare
+
+How much milk does that make?
