@@ -130,3 +130,40 @@ Yield might be 50 bushels per acre [soybean1] but exceptionally,
 3m² per kg.
 
 How much milk does that make?
+
+# Eggs
+
+Why did the frenchman have only one egg for breakfast?
+
+Because one egg is un oeuf.
+
+According to wikipedia
+[https://en.wikipedia.org/wiki/Free-range_eggs#European_Union]
+EU regs require that a free range hen has 4m² space.
+That hen will, if replaced on a regular basis,
+produce one egg per day.
+
+So for our frenchman's daily egg consumption we require only 4m².
+
+Except that we forgot to feed the hen.
+100g per day
+http://www.poultryhub.org/nutrition/nutrient-requirements/nutrient-requirements-of-egg-laying-chickens/
+36.5 kg per year.
+
+Assuming we feed them soybean,
+that's about 110m² of land to
+grow the soybean to feed to the chickens.
+
+Whatever the numbers it's clear that feeding the hens takes far
+more land than accommodating them.
+
+About ½ allotment.
+
+Of course, given half an allotment of land growing a crop, one
+coule simply keep the hen on that.
+You can't really save much land this way,
+because that land still has to be capable of
+growing enough food to feed the hen.
+It doesn't matter whether you harvest and process the food first,
+or whether the hen eats it directly off the land.
+
