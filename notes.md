@@ -126,6 +126,7 @@ https://www.unc.edu/~rowlett/units/scales/bushels.html on 2016-05-16
 Yield might be 50 bushels per acre [soybean1] but exceptionally,
 100. 3000 lbs per acre [bushel1].
 
-3360 kg per hectare
+3360 kg per hectare.
+3m² per kg.
 
 How much milk does that make?
