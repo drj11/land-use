@@ -192,3 +192,18 @@ per kg.
 
 So 32 m² of oats per person per year. About an eighth of an
 allotment.
+
+# Oilseed Rape
+
+[nfu1]
+http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
+(obviously going to decay)
+
+(see also Plastic)
+
+(aka Canola?)
+
+2.5 millions tonnes in 1.6millions acres [nfu1]. 26 million
+allotments.
+
+100 kg per allotment.
