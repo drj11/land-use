@@ -216,3 +216,8 @@ _Zea mays_
 
 Reported in paragraph 70 of [HC180]: 186000 hectares maize.
 0.12 allotments each.
+
+# Milk (Cow's Milk)
+
+From Wikipedia https://en.wikipedia.org/wiki/Cattle#Dairy
+average output is 22 litres per cow per day.
