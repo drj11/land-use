@@ -207,3 +207,12 @@ http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
 allotments.
 
 100 kg per allotment.
+
+# Maize
+
+_Zea mays_
+
+[HC180] Soil Health, Environmental Audit Committee, 2016-05-25
+
+Reported in paragraph 70 of [HC180]: 186000 hectares maize.
+0.12 allotments each.
