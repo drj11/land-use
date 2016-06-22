@@ -171,27 +171,34 @@ or whether the hen eats it directly off the land.
 
 [crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
 
+[eurostat]
+
 Oat yield varies between 36 and 100 bushels per acre [crop0815].
 A bushel of oats is 32 lb (according to wikipedia).
 Which is between 1290 and 3590 kg per hectare.
+Yields in Europe are much higher [eurostat].
+Between 1200 (Portugal) and 8440 kg per hectare
+(Republic of Ireland).
+With several nation states cropping above 5000 kg per hectare.
 
 The reference above nicely illustrates the relationship between
 yield and area harvested.
 The more land you put into production the lower the yield.
-As you try and find more land to plant, the land becomes harder
-to find and less suitable.
-The amount of land that is truly excellent for growing oats at
-high yield is very small.
+As you try and find more land to plant,
+the land becomes harder to find and less suitable.
+The amount of land that is truly excellent for
+growing oats at high yield is very small.
 
-Oat milk is about 4% oats.
+Oat milk is about 10% oats.
 0.5 litre per day is about 200 litre per year per person.
-about 8 kg of oats (in the form of milk) per person per year.
+about 20 kg of oats (in the form of milk) per person per year.
 
-Assuming a mid-range yield of 2500 kg per hectare, we have 4m²
-per kg.
+Assuming a reasonably good, but not close to best,
+yield of 4000 kg per hectare,
+we have 2.5m² per kg.
 
-So 32 m² of oats per person per year. About an eighth of an
-allotment.
+So 50 m² of oats per person per year.
+A fifth of an allotment.
 
 # Oilseed Rape
 
