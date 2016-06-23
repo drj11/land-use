@@ -169,9 +169,9 @@ or whether the hen eats it directly off the land.
 
 # Oats
 
-[crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
+[oat1] Product description for "Oatly Healthy Organic Oat Drink 1L"
 
-[eurostat]
+[crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
 
 Oat yield varies between 36 and 100 bushels per acre [crop0815].
 A bushel of oats is 32 lb (according to wikipedia).
@@ -189,7 +189,7 @@ the land becomes harder to find and less suitable.
 The amount of land that is truly excellent for
 growing oats at high yield is very small.
 
-Oat milk is about 10% oats.
+Oat milk is about 10% oats [oat1].
 0.5 litre per day is about 200 litre per year per person.
 about 20 kg of oats (in the form of milk) per person per year.
 
