@@ -228,3 +228,13 @@ Reported in paragraph 70 of [HC180]: 186000 hectares maize.
 
 From Wikipedia https://en.wikipedia.org/wiki/Cattle#Dairy
 average output is 22 litres per cow per day.
+
+# Bamboo
+
+A random webpage
+http://madeinusachallenge.com/2012/help-grow-the-bamboo-industry-in-the-usa/
+report that bamboo in a 3 year cycle yields 20 m tons (metric
+tonnes?) per acre (ugh).
+Which is
+
+4.9 kg per m²
