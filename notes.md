@@ -237,6 +237,8 @@ Reported in paragraph 70 of [HC180]: 186000 hectares maize.
 From Wikipedia https://en.wikipedia.org/wiki/Cattle#Dairy
 average output is 22 litres per cow per day.
 
+(see also Soybean)
+
 # Bamboo
 
 A random webpage
