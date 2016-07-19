@@ -131,6 +131,14 @@ Yield might be 50 bushels per acre [soybean1] but exceptionally,
 
 How much milk does that make?
 
+Alpro Soya Milk seems to be 6.5% soya bean.
+
+So 0.5 litres of milk a day is about 200 litres of milk a year.
+Which is (× 0.065) 13 kg bean per year.
+
+So, if we drink soy milk, we need about 40m², or 2 square rods
+(one fifth of an allotment).
+
 # Eggs
 
 Why did the frenchman have only one egg for breakfast?
