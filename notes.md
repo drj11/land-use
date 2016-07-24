@@ -11,7 +11,7 @@ Consumption (me, drj): 250g in 15 days (3 weeks to go through a
 
 6 kg tea per year.
 
-37 m²
+37 m², or 1.5 square rods.
 
 
 # Apples
@@ -49,7 +49,7 @@ Yield: 2500 kg per hectare [Bioplastic1]. 4 m² per kg.
 
 50kg plastic per person per year?
 
-200m² = 0.8 allotments
+200m² = 8 square rods.
 
 # Paper
 
