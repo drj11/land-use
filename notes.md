@@ -255,3 +255,12 @@ tonnes?) per acre (ugh).
 Which is
 
 4.9 kg per m²
+
+# Potato
+
+Consumption is 213 g per person per day, or 78 kg per year.
+
+Yields in the UK are (eurostat) about 40,000 kg per hectare,
+or 100 kg per square rod.
+
+So we need a little bit less than 1 square rod.
