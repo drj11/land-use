@@ -197,16 +197,23 @@ the land becomes harder to find and less suitable.
 The amount of land that is truly excellent for
 growing oats at high yield is very small.
 
-Oat milk is about 10% oats [oat1].
-0.5 litre per day is about 200 litre per year per person.
-about 20 kg of oats (in the form of milk) per person per year.
-
 Assuming a reasonably good, but not close to best,
 yield of 4000 kg per hectare,
 we have 2.5m² per kg.
 
+Oat milk is about 10% oats [oat1].
+0.5 litre per day is about 200 litre per year per person.
+about 20 kg of oats (in the form of milk) per person per year.
+
 So 50 m² of oats per person per year.
-A fifth of an allotment.
+Two square rods.
+
+For breakfast I eat porridge made with
+30 g of oats, 150 ml of water,
+and cooked in the microwave for 2 minutes.
+
+This is 11 kg per year.
+Which is 28 m² or about 1 square rod.
 
 # Oilseed Rape
 
