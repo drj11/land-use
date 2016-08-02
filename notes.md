@@ -241,10 +241,37 @@ Reported in paragraph 70 of [HC180]: 186000 hectares maize.
 
 # Milk (Cow's Milk)
 
+[Milk2016] House of Commons Briefing Paper Number 2721, 20 January 2016
+
 From Wikipedia https://en.wikipedia.org/wiki/Cattle#Dairy
 average output is 22 litres per cow per day.
 
+Which is also very close to the average for the UK (21 litres
+per day [Milk2016).
+
+Not all produced milk is consumed by humans, some is wasted,
+some re-enters the animal food chain.
+
+Consumption by type is roughly [Milk2016]:
+50% Liquid consumption
+28% Cheese
+11% Milk powder
+5% Other manufacture
+6% Butter, Cream, Condensed milk
+
+There is little international trade (3% export; 1% import).
+
+So per UK resident:
+14.6 billion litres divided by 70 million people:
+
+~ 200 litres per person per year
+
+or about 0.6 litres per person per day.
+
 (see also Soybean)
+
+(Seems quite difficult to get numbers on amount of land these
+cows might require).
 
 # Bamboo
 
