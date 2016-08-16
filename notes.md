@@ -181,6 +181,8 @@ or whether the hen eats it directly off the land.
 
 [crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
 
+[oat2014] http://www.producer.com/daily/eu-oat-exports-set-for-nine-year-high-on-north-america-woes/
+
 Oat yield varies between 36 and 100 bushels per acre [crop0815].
 A bushel of oats is 32 lb (according to wikipedia).
 Which is between 1290 and 3590 kg per hectare.
@@ -214,6 +216,18 @@ and cooked in the microwave for 2 minutes.
 
 This is 11 kg per year.
 Which is 28 m² or about 1 square rod.
+
+Incidentally, this is close to what the UK produces [eurostat].
+The same story applies to the broader EU region.
+Total production is about 50g per person per day,
+so it is entirely plausible that the EU, collectively,
+eats all of most of the oats it produces.
+
+There are some exports (almost no imports),
+but they are generally very small.
+Even in record export years,
+caused by the Canadian train network being overwhelmed [oat2014],
+total EU exports amount to a couple of percent.
 
 # Oilseed Rape
 
