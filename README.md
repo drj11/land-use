@@ -18,7 +18,7 @@ I measured one at roughly 18.2 m by 6.3 m,
 which is 115 m²,
 close enough to 5 square rods that I suspect it's simply a
 half plot.
-Troughout this work though,
+Throughout this work though,
 I'm going to use the convention of an allotment being 250 m²
 or 10 square rods.
 
