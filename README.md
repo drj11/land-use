@@ -24,6 +24,8 @@ or 10 square rods.
 
 The square rod, rod², relates to other units of area as follows:
 
+| area       | converts to | notes                        |
+|------------|-------------|------------------------------|
 | 25 m²      | 1 rod²      | approx                       |
 | 10 rod²    | 1 allotment | adopted convention used here |
 | 160 rod²   | 1 acre      | traditional                  |
