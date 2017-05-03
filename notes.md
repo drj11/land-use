@@ -177,6 +177,8 @@ or whether the hen eats it directly off the land.
 
 # Oats
 
+_Avena sativa_
+
 [oat1] Product description for "Oatly Healthy Organic Oat Drink 1L"
 
 [crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
