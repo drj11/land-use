@@ -2,9 +2,9 @@
 
 Tea1: http://www.britannica.com/plant/tea-plant on 2016-05-11
 
-1650 kg per hectare (best) [Tea1]. Wet or dry?
+Wet or dry?
 
-Tea:production,1650kg,hectare
+Tea:production,1650kg,hectare,best,[Tea1]
 
 + pesticides
 
@@ -22,11 +22,13 @@ Tea:land,1.5rod²
 
 Apple1: http://www.goodfruit.com/calculate-target-yield/ on 2016-05-11
 
-65000 kg per hectare (best) [Apple1]
+Apple:production,65000kg,hectare,best,[Apple1]
 
 An apple a day = 60 kg per year
 
-9.2 m²
+Apple:consumption,60kg,year
+
+Apple:land,0.4rod²
 
 
 # Plastics
@@ -49,11 +51,11 @@ with how bioplastics should be called biobased polymer.
 If you've eaten with a biodegradable plastic fork, probably a
 bioplastic.
 
-Yield: 2500 kg per hectare [Bioplastic1]. 4 m² per kg.
+Plastic:production,2500kg,hectare,,[Bioplastic1]
 
-50kg plastic per person per year?
+Plastic:consumption,50kg,year,guess
 
-200m² = 8 square rods.
+Plastic:land,8rod²
 
 # Paper
 
