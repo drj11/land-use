@@ -4,14 +4,18 @@ Tea1: http://www.britannica.com/plant/tea-plant on 2016-05-11
 
 1650 kg per hectare (best) [Tea1]. Wet or dry?
 
+Tea:production,1650kg,hectare
+
 + pesticides
 
-Consumption (me, drj): 250g in 15 days (3 weeks to go through a
-100 box of Taylors Earl Grey).
+Consumption (me, drj):
+250g in 15 days (3 weeks to go through a 100 box of Taylors Earl Grey).
 
-6 kg tea per year.
+Tea:consumption,6kg,year
 
 37 m², or 1.5 square rods.
+
+Tea:land,1.5rod²
 
 
 # Apples
