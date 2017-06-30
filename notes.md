@@ -91,16 +91,20 @@ Obviously this is part of a much larger energy section, but...
 http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163231&_dad=portal&_schema=PORTAL
 on 2016-05-13 (good luck with that URL!)
 
+[SEWTHA]
+"Sustainable Energy Without the Hot Air"
+
 Energy crop yield is 11 to 63 MWh/ha per year.
 Let's say 50 MWh/ha.
 
-200m² per MWh.
-0.8 allotments per MWh.
+biofuel:production,50MWh,hectare
 
-MacKay has a figure of 195kWh per person per day,
-which is 71 MWh per year.
 
-57 allotments.
+[SEWTHA] has a figure of 195kWh per person per day.
+
+biofuel:consumption,71Mwh,year
+
+biofuel:land,57allot
 
 This figure remember, assumes we're making all of our energy from a
 reasonably efficient biological source.
