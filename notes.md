@@ -187,6 +187,8 @@ or whether the hen eats it directly off the land.
 
 # Oats
 
+_Avena sativa_
+
 [oat1] Product description for "Oatly Healthy Organic Oat Drink 1L"
 
 [crop0815] http://www.usda.gov/nass/PUBS/TODAYRPT/crop0815.pdf
@@ -238,6 +240,19 @@ but they are generally very small.
 Even in record export years,
 caused by the Canadian train network being overwhelmed [oat2014],
 total EU exports amount to a couple of percent.
+
+Can we use oat straw for heat / thermal power stations?
+Wikipedia https://en.wikipedia.org/wiki/Oat#Yield_and_quality
+suggests straw yield between 1000 kg and 3000 kg per hectare.
+5m² per kg.
+
+Converting at 16 MJ/kg gives 32 GJ/hectare or
+about 9 MWh/hectare.
+Note that is a lot less (about one fifth) of
+dedicated biofuel production,
+but then we are getting it "for free",
+as a by-product of food production.
+It's free in terms of land use anyhow.
 
 # Oilseed Rape
 
