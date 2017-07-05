@@ -260,7 +260,9 @@ It's free in terms of land use anyhow.
 
 [nfu1]
 http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
-(obviously going to decay)
+(obviously going to decay) [2017-07-05 it decayed] Rescued by
+Internet Archive:
+https://web.archive.org/web/20160604172406/http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
 
 (see also Plastic)
 
