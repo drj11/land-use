@@ -215,6 +215,8 @@ Assuming a reasonably good, but not close to best,
 yield of 4000 kg per hectare,
 we have 2.5m² per kg.
 
+Oats:production,4000kg,hectare,good,[eurostat]
+
 Oat milk is about 10% oats [oat1].
 0.5 litre per day is about 200 litre per year per person.
 about 20 kg of oats (in the form of milk) per person per year.
