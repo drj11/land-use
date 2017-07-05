@@ -271,7 +271,7 @@ https://web.archive.org/web/20160604172406/http://www.nfuonline.com/back-british
 2.5 millions tonnes in 1.6millions acres [nfu1]. 26 million
 allotments.
 
-100 kg per allotment.
+Rape-oil:production,100kg,allot
 
 # Maize
 
