@@ -335,3 +335,50 @@ Potato:production,40000kg,hectare,typical,[eurostat]
 100 kg per square rod.
 
 So we need a little bit less than 1 square rod.
+
+# Cereals
+
+[AHDBCEREAL]
+https://cereals.ahdb.org.uk/media/658213/hgca-cereal-a5-16pp-final.pdf
+
+[AHDBFORAGE]
+http://beefandlamb.ahdb.org.uk/wp-content/uploads/2014/12/BRP-Home-grown-forages-directory-181214.pdf
+
+[FARMSTAT2015]
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/486326/structure-jun2015final-uk-17dec15.pdf
+
+In the UK, cereal crops are Wheat, Barley, Oats, and Rape.
+Wheat is grown for human and animal feed;
+Barley is grown for human and animal feed (and brewing!).
+Oats grown for human and animal feed;
+Rape is grown for human feed (as oil),
+animal feed (as oil and cake), and fuel oil (for heating and
+biodiesel). [AHDB]
+
+Yields are (roughly):
+
+crop|yield, tonnes/hectare
+Wheat|8.0
+Barley|6.0
+Oats|6.0
+Rape|3.5
+
+At least according to [AHDBFORAGE]
+these all have similar calorific values at 12 to 14 MJ/kg
+(metabolic energy, dry matter)
+
+Adult human calorific requirements are 8.4MJ to 10.5MJ per day.
+
+We get all our calories from cereals.
+If we did that, it would be
+750g cereal / day.
+270kg per year.
+
+We can grow all of our cereal on
+1.4 to 1.8 allotments,
+depending on cereal mix,
+and assuming best practice yield.
+
+It seems unlikely we could eat such a diet,
+but it is nice to know that we can cover our calorific requirements
+with a couple of allotments.
