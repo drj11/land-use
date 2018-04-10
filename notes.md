@@ -250,6 +250,9 @@ It's free in terms of land use anyhow.
 http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
 (obviously going to decay)
 
+[spott2018]
+https://www.spott.org/palm-oil-resource-archive/boycotts/
+
 (see also Plastic)
 
 (aka Canola?)
