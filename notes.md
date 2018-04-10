@@ -2,27 +2,33 @@
 
 Tea1: http://www.britannica.com/plant/tea-plant on 2016-05-11
 
-1650 kg per hectare (best) [Tea1]. Wet or dry?
+Wet or dry?
+
+Tea:production,1650kg,hectare,best,[Tea1]
 
 + pesticides
 
-Consumption (me, drj): 250g in 15 days (3 weeks to go through a
-100 box of Taylors Earl Grey).
+Consumption (me, drj):
+250g in 15 days (3 weeks to go through a 100 box of Taylors Earl Grey).
 
-6 kg tea per year.
+Tea:consumption,6kg,year
 
 37 m², or 1.5 square rods.
+
+Tea:land,1.5rod²
 
 
 # Apples
 
 Apple1: http://www.goodfruit.com/calculate-target-yield/ on 2016-05-11
 
-65000 kg per hectare (best) [Apple1]
+Apple:production,65000kg,hectare,best,[Apple1]
 
 An apple a day = 60 kg per year
 
-9.2 m²
+Apple:consumption,60kg,year
+
+Apple:land,0.4rod²
 
 
 # Plastics
@@ -45,11 +51,11 @@ with how bioplastics should be called biobased polymer.
 If you've eaten with a biodegradable plastic fork, probably a
 bioplastic.
 
-Yield: 2500 kg per hectare [Bioplastic1]. 4 m² per kg.
+Plastic:production,2500kg,hectare,,[Bioplastic1]
 
-50kg plastic per person per year?
+Plastic:consumption,50kg,year,guess
 
-200m² = 8 square rods.
+Plastic:land,8rod²
 
 # Paper
 
@@ -85,16 +91,20 @@ Obviously this is part of a much larger energy section, but...
 http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163231&_dad=portal&_schema=PORTAL
 on 2016-05-13 (good luck with that URL!)
 
+[SEWTHA]
+"Sustainable Energy Without the Hot Air"
+
 Energy crop yield is 11 to 63 MWh/ha per year.
 Let's say 50 MWh/ha.
 
-200m² per MWh.
-0.8 allotments per MWh.
+biofuel:production,50MWh,hectare
 
-MacKay has a figure of 195kWh per person per day,
-which is 71 MWh per year.
 
-57 allotments.
+[SEWTHA] has a figure of 195kWh per person per day.
+
+biofuel:consumption,71Mwh,year
+
+biofuel:land,57allot
 
 This figure remember, assumes we're making all of our energy from a
 reasonably efficient biological source.
@@ -205,6 +215,8 @@ Assuming a reasonably good, but not close to best,
 yield of 4000 kg per hectare,
 we have 2.5m² per kg.
 
+Oats:production,4000kg,hectare,good,[eurostat]
+
 Oat milk is about 10% oats [oat1].
 0.5 litre per day is about 200 litre per year per person.
 about 20 kg of oats (in the form of milk) per person per year.
@@ -248,7 +260,9 @@ It's free in terms of land use anyhow.
 
 [nfu1]
 http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
-(obviously going to decay)
+(obviously going to decay) [2017-07-05 it decayed] Rescued by
+Internet Archive:
+https://web.archive.org/web/20160604172406/http://www.nfuonline.com/back-british-farming/news-channel/fields-of-gold/
 
 [spott2018]
 https://www.spott.org/palm-oil-resource-archive/boycotts/
@@ -260,7 +274,7 @@ https://www.spott.org/palm-oil-resource-archive/boycotts/
 2.5 millions tonnes in 1.6millions acres [nfu1]. 26 million
 allotments.
 
-100 kg per allotment.
+Rape-oil:production,100kg,allot
 
 # Maize
 
@@ -317,9 +331,57 @@ Which is
 
 # Potato
 
-Consumption is 213 g per person per day, or 78 kg per year.
+Potato:consumption,78kg,year
 
-Yields in the UK are (eurostat) about 40,000 kg per hectare,
-or 100 kg per square rod.
+Potato:production,40000kg,hectare,typical,[eurostat]
+
+100 kg per square rod.
 
 So we need a little bit less than 1 square rod.
+
+# Cereals
+
+[AHDBCEREAL]
+https://cereals.ahdb.org.uk/media/658213/hgca-cereal-a5-16pp-final.pdf
+
+[AHDBFORAGE]
+http://beefandlamb.ahdb.org.uk/wp-content/uploads/2014/12/BRP-Home-grown-forages-directory-181214.pdf
+
+[FARMSTAT2015]
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/486326/structure-jun2015final-uk-17dec15.pdf
+
+In the UK, cereal crops are Wheat, Barley, Oats, and Rape.
+Wheat is grown for human and animal feed;
+Barley is grown for human and animal feed (and brewing!).
+Oats grown for human and animal feed;
+Rape is grown for human feed (as oil),
+animal feed (as oil and cake), and fuel oil (for heating and
+biodiesel). [AHDB]
+
+Yields are (roughly):
+
+crop|yield, tonnes/hectare
+Wheat|8.0
+Barley|6.0
+Oats|6.0
+Rape|3.5
+
+At least according to [AHDBFORAGE]
+these all have similar calorific values at 12 to 14 MJ/kg
+(metabolic energy, dry matter)
+
+Adult human calorific requirements are 8.4MJ to 10.5MJ per day.
+
+We get all our calories from cereals.
+If we did that, it would be
+750g cereal / day.
+270kg per year.
+
+We can grow all of our cereal on
+1.4 to 1.8 allotments,
+depending on cereal mix,
+and assuming best practice yield.
+
+It seems unlikely we could eat such a diet,
+but it is nice to know that we can cover our calorific requirements
+with a couple of allotments.

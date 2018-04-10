@@ -1,12 +1,14 @@
 # Consumption
 
-The rather splendid Readers Digest Atlas of The World
-has handy and pleasingly unambiguous figures for the
-average UK diet.
+The rather splendid
+Readers Digest Atlas of The World
+has handy and pleasingly unambiguous figures
+for the average UK diet.
 
-The atlas is ancient, so the figures are in ounces. I've
-converted them to grammes.
+The atlas is ancient, so the figures are in ounces.
+I've converted them to grammes.
 
+food | oz/day | g/day
 Cereals | 11.1 | 315
 Potatoes | 7.5 | 213
 Sugar and Preserves | 3.5 | 99
