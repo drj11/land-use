@@ -79,6 +79,12 @@ glue, from lignin).
 And, by selecting species and growing conditions,
 a trade-off between paper and other wood products is possible.
 
+At 1400 trees per hectare and 17 trees per 1000 kg paper,
+we get 82,000 kg per hectare.
+Difficult to obtain figures on how long trees for paper are
+grown, but say every 10 years, and we get 8,200 kg per
+hectare per year.
+
 6.7m² per tree
 14m² per person
 0.06 allotments
